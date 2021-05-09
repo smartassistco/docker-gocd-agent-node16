@@ -1,4 +1,4 @@
-# GoCD Agent with Node 15 Docker Image
+# GoCD Agent with Node 16 Docker Image
 
 [![dockeri.co](https://dockeri.co/image/smartassist/gocd-agent-node16)](https://hub.docker.com/r/smartassist/gocd-agent-node16)
 
