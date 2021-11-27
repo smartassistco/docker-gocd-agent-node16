@@ -1,8 +1,8 @@
 #!/bin/bash
 
-GOCD_AGENT_VERSION=21.2.0
+GOCD_AGENT_VERSION=21.3.0
 NODE_VERSION=16
-ALPINE_VERSION=3.13
+ALPINE_VERSION=3.14
 
 echo "Creating temp directory"
 
