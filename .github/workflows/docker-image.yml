@@ -18,7 +18,7 @@ jobs:
           images: |
             smartassist/gocd-agent-node16
           tags: |
-            type=semver,pattern=v{{major}}.{{minor}}.{{patch}}
+            type=match,pattern=(v\d+.\d+.\d+)
       - name: Login to DockerHub
         uses: docker/login-action@v1
         with:
