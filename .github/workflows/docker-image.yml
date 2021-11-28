@@ -17,6 +17,8 @@ jobs:
         with:
           images: |
             smartassist/gocd-agent-node16
+          flavor: |
+            latest=false
           tags: |
             type=match,pattern=(v\d+.\d+.\d+)
       - name: Login to DockerHub
