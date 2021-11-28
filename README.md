@@ -2,8 +2,7 @@
 
 [![dockeri.co](https://dockeri.co/image/smartassist/gocd-agent-node16)](https://hub.docker.com/r/smartassist/gocd-agent-node16)
 
-[![Docker Hub Automated](https://img.shields.io/docker/cloud/automated/smartassist/gocd-agent-node16.svg?style=flat-square&logo=docker "GitHub issues")](https://hub.docker.com/r/smartassist/gocd-agent-node16)
-[![Docker Hub Build Status](https://img.shields.io/docker/cloud/build/smartassist/gocd-agent-node16.svg?style=flat-square&logo=docker "GitHub stars")](https://hub.docker.com/r/smartassist/gocd-agent-node16)
+[![Docker Image Build Status](https://github.com/smartassistco/docker-gocd-agent-node16/actions/workflows/docker-image.yml/badge.svg)](https://github.com/smartassistco/docker-gocd-agent-node16/actions/workflows/docker-image.yml)
 
 [GoCD Agent on Alpine](https://hub.docker.com/r/gocd/gocd-agent-alpine-3.14) with the latest version of Node 16 added to
 it.
